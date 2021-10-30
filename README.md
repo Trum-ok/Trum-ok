@@ -1,12 +1,12 @@
 <h2 align="left">✌🏻, I'm Trum</h2>
 
-- 📋 I’m currently working on [Bump reminder on JS](https://github.com/Trum-ok/RemEinder)
+- 📋 I’m currently working on **[Bump reminder on JS](https://github.com/Trum-ok/RemEinder)**
 
 - 📚 I’m currently learning **JavaScript & Python**
 
 - 📫 Discord: **'Trum'#3898**
 
-- 💻 PC: [R7 2700x & RTX 2070](R7 2700x & RTX 2070)
+- 💻 PC: R7 2700x & RTX 2070
 
 
 <h3 align="left">Languages and Tools:</h3>
