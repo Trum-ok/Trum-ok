@@ -1,4 +1,5 @@
-<h2 align="center">✌🏻, I'm Trum</h2>
+<h2 align="left">✌🏻, I'm Trum</h2>
+
 - 📋 I’m currently working on [Bump reminder on JS](https://github.com/Trum-ok/RemEinder)
 
 - 📚 I’m currently learning **JavaScript & Python**
