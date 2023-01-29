@@ -1,6 +1,6 @@
 <h2 align="left">✌🏻, I'm Trum</h2>
 
-- 📋 I’m currently working on **[rem](https://github.com/Trum-ok/RemEinder)**
+- 📋 I’m currently working on **[rem](https://ru.pinterest.com/pin/1008595279022068822/)**
 
 - 📚 I’m currently learning **Python**
 
