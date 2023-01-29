@@ -1,6 +1,6 @@
 <h2 align="left">✌🏻, I'm Trum</h2>
 
-- 📋 I’m currently working on **[Bump reminder on JS](https://github.com/Trum-ok/RemEinder)**
+- 📋 I’m currently working on **[rem](https://github.com/Trum-ok/RemEinder)**
 
 - 📚 I’m currently learning **Python**
 
