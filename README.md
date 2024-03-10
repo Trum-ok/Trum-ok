@@ -9,7 +9,7 @@
     <li><b><a href="https://github.com/Trum-ok/museum" style="text-decoration: none;">Meseum web-site</a></b></li>
     <li><b><a href="https://github.com/Trum-ok/genshin-art-parser" style="text-decoration: none;">Genshin artifacts parser</a></b></li>
     <li><b><a href="https://github.com/Trum-ok/portfolio" style="text-decoration: none;">My web-site</a></b></li>
-    <li><b><a href="https://github.com/Trum-ok/5letters" style="text-decoration: none;">Wordle copy</a></b></li>
+    <li><b><a href="https://github.com/Trum-ok/5letters" style="text-decoration: none;">Wordle copy</a> | web </b></li>
     <li>Discord bot <i>(private repo)</i></li>
 </ul>
   
