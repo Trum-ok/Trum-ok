@@ -6,7 +6,8 @@
 <h3>👨‍💻 Projects under development:</h3>
 
 <ul>
-    <li><b><a href="https://github.com/Trum-ok/museum" style="text-decoration: none;">Meseum web-site</a></b></li>
+    <li><b>Some ML projects (Studying)</b></li>
+    <li><b><a href="https://github.com/Trum-ok/museum" style="text-decoration: none;">Meseum project</a></b></li>
     <li><b><a href="https://github.com/Trum-ok/genshin-art-parser" style="text-decoration: none;">Genshin artifacts parser</a></b></li>
     <li><b><a href="https://github.com/Trum-ok/portfolio" style="text-decoration: none;">My web-site</a></b></li>
     <li><b><a href="https://github.com/Trum-ok/5letters" style="text-decoration: none;">Wordle copy</a> | web </b></li>
@@ -27,9 +28,11 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trum-ok&show_icons=true&theme=dark&locale=en&layout=compact" alt="trum-ok" style="border: none;" /></p>
 
-🌱 I am currently **studying computer science**, **participating in contests** and **delving into app and website development**
+🌱 I am currently **studying computer science** & **ML**, **participating in contests** and **delving into app and website development**
 
 <h3>🧧 Goals:</h3>
 
 - Become a skilled developer
 - Learn a few other programming languages
+- Solve all problems on <a href="https://leetcode.com/Trum-ok/">LeetCode</a>
+
