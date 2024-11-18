@@ -4,7 +4,7 @@
 <h3>👨‍💻 Projects under development:</h3>
 
 <ul>
-    <li><b><a href="https://github.com/Trum-ok/project-file-tree"></a>Project file tree (lib)</b></li>
+    <li><b><a href="https://github.com/Trum-ok/project-file-tree">Project file tree (lib)</a></b></li>
     <li><b>Some ML projects</b></li>
     <li><b><a href="https://github.com/Trum-ok/museum" style="text-decoration: none;">Museum project</a></b></li>
     <li><b><a href="https://github.com/Trum-ok/genshin-art-parser" style="text-decoration: none;">Genshin artifacts parser</a></b></li>
