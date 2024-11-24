@@ -4,14 +4,14 @@
 <h3>👨‍💻 Projects under development:</h3>
 
 <ul>
-    <li><b><a href="https://github.com/Trum-ok/project-file-tree">Project file tree (lib)</a></b></li>
+    <li><b><a href="https://github.com/Trum-ok/project-file-tree">Project file tree (prft on pypi)</a></b></li>
     <li><b>Some ML projects</b></li>
     <li><b><a href="https://github.com/Trum-ok/museum" style="text-decoration: none;">Museum project</a></b></li>
     <li><b><a href="https://github.com/Trum-ok/genshin-art-parser" style="text-decoration: none;">Genshin artifacts parser</a></b></li>
     <li><b><a href="https://github.com/Trum-ok/5letters-web" style="text-decoration: none;">5 Letters</a></b></li>
 </ul>
   
-📫 Socials: **<a href="https://t.me/OpSonata" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Telegram</a>** | **<a href="https://discord.com/users/469403257760907274" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Discord</a>** | Website *(soon)* 
+📫 Socials: **<a href="https://t.me/OpSonata" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Telegram</a>** | **<a href="https://discord.com/users/469403257760907274" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Discord</a>**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
