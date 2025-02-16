@@ -1,5 +1,3 @@
-<div style="width: 100%; display: flex;justify-content: center;" >
-<div style="max-width: 520px">
 <h1 align="center"><b>✌🏻 Hi, I'm Trum</b> <img src="https://i.imgur.com/2JMryHU.png" alt="amnyam" width="27" /></h1>
 <h4 align="center">self-taught python dev <i>&</i> insomniac in Chief</h4>
 
@@ -36,16 +34,3 @@
 I am **studying computer science** & **ML**, **participating in hackathons** and **diving into app and web development**. 
 
 📫 Socials: <b><a href="https://t.me/OpSonata" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Telegram</a></b> | <b><a href="https://discord.com/users/469403257760907274" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Discord</a></b>
-
-<hr>
-</div>
-</div>
-
-<style>
-hr {
-	height: 1px;
-}
-img {
-    border: none;
-}
-</style>
