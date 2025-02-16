@@ -17,12 +17,11 @@
 <hr>
 
 <h3 align="left" style="display: inline-block;">Languages and Tools:</h3>
-<span style="font-size: 9px; color: black; margin-left: 10px;"><i>skill issue</i></span>
 <p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" style="border: none;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" style="border: none;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" style="border: none;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30" style="border: none;" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
 </p>
 
 <hr>
@@ -33,6 +32,7 @@
     <b>BMSTU software engineering (IU7) student `28</b>
 </div>
 
+\
 I am **studying computer science** & **ML**, **participating in hackathons** and **diving into app and web development**. 
 
 📫 Socials: <b><a href="https://t.me/OpSonata" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Telegram</a></b> | <b><a href="https://discord.com/users/469403257760907274" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Discord</a></b>
@@ -40,3 +40,12 @@ I am **studying computer science** & **ML**, **participating in hackathons** and
 <hr>
 </div>
 </div>
+
+<style>
+hr {
+	height: 1px;
+}
+img {
+    border: none;
+}
+</style>
