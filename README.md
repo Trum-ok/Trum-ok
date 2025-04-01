@@ -4,6 +4,7 @@
 <h3>👨‍💻 Projects:</h3>
 
 <ul>
+    <li><b><a href="https://github.com/Trum-ok/telegram-claude-mcp">Telegram Claude MCP</a></b> - a telegram userbot that's connected to Claude via MCP and generates a summary </li>
     <li><b><a href="https://github.com/Trum-ok/project-file-tree">Project file tree (prft on pypi)</a></b> - a python lib for generating a file tree</li>
     <li><b><a href="https://github.com/Trum-ok/frameless" >frameless</a></b> - fast communication between two desktops</li>
     <li><b><a href="https://github.com/Trum-ok/handwriter">handwriter</a></b> - Figma (boards) plugin converting LaTeX to handwritten text</li>
@@ -26,7 +27,7 @@
 <h3>Just a bit about me:</h3>
 
 <div style="display: flex; align-items: center; height: 40px;">
-    <img src="https://e5.bmstu.ru/wp-content/uploads/2022/06/gerb_mgtu_imeni_baumana.png" alt="amnyam" width="18" style="margin-right: 5px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/b/bd/Герб_МГТУ_имени_Н._Э._Баумана.svg/640px-Герб_МГТУ_имени_Н._Э._Баумана.svg.png" alt="bmstu logo" width="26" style="margin-right: 2px"/>
     <b>BMSTU software engineering (IU7) student `28</b>
 </div>
 
