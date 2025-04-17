@@ -9,7 +9,7 @@
     <li><b><a href="https://github.com/Trum-ok/frameless" >frameless</a></b> - fast communication between two desktops</li>
     <li><b><a href="https://github.com/Trum-ok/handwriter">handwriter</a></b> - Figma (boards) plugin converting LaTeX to handwritten text</li>
     <li><b><a href="https://github.com/Trum-ok/5letters-web" style="text-decoration: none;">5 Letters</a></b> - my interpretation of Wordle (<i>update soon</i>)</li>
-    <li><b><a href="https://github.com/Trum-ok/genshin-art-parser" style="text-decoration: none;">ArtParser</a></b> - computer vision-based artifact sort in Genshin Impact</li>
+    <li><b><a href="https://github.com/Trum-ok/Kostritsky" style="text-decoration: none;">Kostritsky</a></b> - you know if you know.</li>
     <li><b>Some ML projects</b> - personal AI-agent, priority matrix (<i>soon in prod.</i>)</li>
 </ul>
   
