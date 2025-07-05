@@ -28,7 +28,7 @@
 
 <div style="display: flex; align-items: center; height: 40px;">
     <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/b/bd/Герб_МГТУ_имени_Н._Э._Баумана.svg/640px-Герб_МГТУ_имени_Н._Э._Баумана.svg.png" alt="bmstu logo" width="26" style="margin-right: 2px"/>
-    <b>BMSTU software engineering (IU7) student `28</b>
+    <b>BMSTU Software Engineering (IU7) student `28  &  Python Backend Dev at <a href="https://kts.tech">KTS</a></b>
 </div>
 
 \
