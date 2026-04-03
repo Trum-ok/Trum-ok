@@ -1,8 +1,8 @@
 <h1 align="center"><b>Arkadii Artamonov</b> <img src="icons/amnyam.png" alt="amnyam" width="27" /></h1>
 <p align="center">Python Backend Developer</p>
 
-Junior Python Backend Dev at <a href="https://kts.tech">KTS</a> — Russian outsource IT company. \
-FullStack Dev at FinRocket — prediction market for stock price movements, fintech startup. \
+FullStack Dev at <a href="https://newstrading.ai">newstrading.ai</a> — prediction market for stock price movements, **fintech** startup. \
+Ex Junior Python Backend Dev at <a href="https://kts.tech">KTS</a> — Russian outsource IT company. \
 Bauman Moscow State Technical University (<a href="https://mirror.bmstu.ru">BMSTU</a>) Software Engineering (IU7) student '29.
 
 **4+ years of coding experience**, hackathon participant & winner. Interested in **CS**, **ML**, and **Web development**.
