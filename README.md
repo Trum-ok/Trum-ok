@@ -9,8 +9,11 @@ Bauman Moscow State Technical University (<a href="https://bmstu.ru">BMSTU</a>) 
 
 ## Achievements
 
-**1st place — IU Faculty Hackathon, BMSTU** · Team Lead  
+**1st place — IU Faculty Hackathon, BMSTU** · Backend Dev + Team Lead
 News aggregator for BMSTU student organizations (~30k students). Led a team of 5: task distribution, code reviews, coordinated development and deployment.
+
+**2nd place — T-Bank Hackathon** · Backend Dev + Team Lead
+[LoyalT](https://github.com/Trum-ok/tbank-LoyalT) — loyalty platform embeddable into the T-Bank app. Microservices on FastAPI (async, schema-per-service PostgreSQL, Kafka for events) + Angular/Taiga UI clients for customers, partners, cashiers, and Bank admins. Led the team: architecture, system design.
 
 ## Tech Stack
 
@@ -28,10 +31,14 @@ News aggregator for BMSTU student organizations (~30k students). Led a team of 5
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+**Messaging**  
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
 **Infra & DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
 ## Socials
