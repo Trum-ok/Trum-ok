@@ -17,6 +17,9 @@ News aggregator for BMSTU student organizations (~30k students). Led a team of 5
 
 ## Projects
 
+**[gh-dojo](https://github.com/Trum-ok/gh-dojo)** · [Releases](https://github.com/Trum-ok/gh-dojo/releases/latest)  
+AI-native GitHub CLI extension for GitHub Projects: turns the board's process from `.github/dojo.toml` into verbs for coding agents (`gh dojo start 42`). In a Claude Code benchmark it is 37–44% faster and 33–44% cheaper than plain `gh`, with every step right.
+
 **[normik](https://github.com/Trum-ok/normik)** · [PyPI](https://pypi.org/project/normik/) · [Docs](https://trum-ok.github.io/normik/)  
 Linter for LaTeX reports: checks formatting against GOST standards and university rules, reports every violation with file, line and the clause that requires it.
 
@@ -28,48 +31,13 @@ Docker dev environments for BMSTU coursework (Ubuntu 24.04/22.04, Alpine 3.21) w
 
 ## Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Backend**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-
-**Databases & Storage**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
-
-**Messaging**  
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-**Infra & DevOps**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Observability**  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black)
-![Tempo](https://img.shields.io/badge/Tempo-E8453C?style=for-the-badge&logo=grafana&logoColor=white)
-
-**AI / ML**  
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
+**Languages:** Python · Go · C · Bash  
+**Backend:** FastAPI · Django · aiohttp · SQLAlchemy · Celery  
+**Storage:** PostgreSQL · Redis · MongoDB · MinIO  
+**Messaging:** Kafka · RabbitMQ  
+**Infra:** Docker · Kubernetes · Terraform · GitHub Actions  
+**Observability:** Prometheus · Grafana  
+**AI / ML:** MCP · PyTorch · scikit-learn · pandas
 
 ## Socials
 
